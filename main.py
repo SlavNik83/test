@@ -1,6 +1,7 @@
 
 #There is code
 #Check for changes of text
+add branches f1
 from sys import exit
 from random import randint
 # функция dedent позволит нам описать сцены в виде строк,
